@@ -1,5 +1,12 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+<div align="center">
+
+# Desafio de Projeto DynamoDB - DIO 🏆
+Repositório para a entrega do projeto "Boas Práticas com DynamoDB" da plataforma da DIO
+
+
+## Neste Repositório está os Arquivos JSON, e fotos do banco de dados, no console da AWS.
+
+</div>
 
 ### Serviço utilizado
   - Amazon DynamoDB
