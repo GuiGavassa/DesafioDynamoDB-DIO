@@ -1,0 +1,74 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Ed Sheeran"},
+                  "SongTitle": {"S": "Photograph"},
+                  "AlbumTitle": {"S": "X"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Ed Sheeran"},
+                  "SongTitle": {"S": "Thinking out Loud"},
+                  "AlbumTitle": {"S": "X"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Ed Sheeran"},
+                  "SongTitle": {"S": "Perfect"},
+                  "AlbumTitle": {"S": "÷"},
+                  "SongYear": {"S": "2017"}
+                }
+            }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Ed Sheeran"},
+                "SongTitle": {"S": "Shape of You"},
+                "AlbumTitle": {"S": "÷"},
+                "SongYear": {"S": "2017"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Bruno Mars"},
+                "SongTitle": {"S": "That's What I Like"},
+                "AlbumTitle": {"S": "24K Magic"},
+                "SongYear": {"S": "2016"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Bruno Mars"},
+                "SongTitle": {"S": "Versace On the Floor"},
+                "AlbumTitle": {"S": "24K Magic"},
+                "SongYear": {"S": "2016"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Bruno Mars"},
+                "SongTitle": {"S": "Just the Way you Are"},
+                "AlbumTitle": {"S": "Doo-Wops & Hooligans"},
+                "SongYear": {"S": "2010"}
+              }
+          }
+        }
+      ]
+}
