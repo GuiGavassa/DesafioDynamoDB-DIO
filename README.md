@@ -3,7 +3,16 @@
 # Desafio de Projeto DynamoDB - DIO 🏆
 Repositório para a entrega do projeto "Boas Práticas com DynamoDB" da plataforma da DIO
 
-
+<div align="center">
+  <div>Entre em contato comigo! 📲</div> 
+  <br>
+  
+<a href="https://www.linkedin.com/in/gavassa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.instagram.com/guilherme.gavassa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="mailto:guilhermegavassa.tecn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+</div>
+  
+  
 ## Neste Repositório está os Arquivos JSON, e fotos do banco de dados, no console da AWS.
 
 </div>
